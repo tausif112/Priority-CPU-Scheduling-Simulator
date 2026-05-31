@@ -67,7 +67,7 @@ The CPU selects the process with the highest priority first.
 
 ---
 
-# ⚙️ Algorithm
+## ⚙️ Algorithm
 
 1. Take a list of processes containing:
 
@@ -132,7 +132,7 @@ The project was implemented and tested using Google Colaboratory.
 
 ---
 
-# 📸 Program Output
+## 📸 Program Output
 
 ![Output](screenshots/output.png)
 
@@ -156,21 +156,21 @@ Priority-CPU-Scheduling-Simulator/
 
 ---
 
-# 🚀 How to Run
+## 🚀 How to Run
 
-## Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/tausif112/Priority-CPU-Scheduling-Simulator.git
 ```
 
-## Navigate to the Project Directory
+### Navigate to the Project Directory
 
 ```bash
 cd Priority-CPU-Scheduling-Simulator
 ```
 
-## Run the Program
+### Run the Program
 
 ```bash
 python priority.py
@@ -178,7 +178,7 @@ python priority.py
 
 ---
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 | Technology        | Purpose                 |
 | ----------------- | ----------------------- |
@@ -189,7 +189,7 @@ python priority.py
 
 ---
 
-# 📋 Sample Waiting Time Table
+## 📋 Sample Waiting Time Table
 
 | Process | Burst Time | Priority | Waiting Time |
 | ------- | ---------- | -------- | ------------ |
@@ -210,7 +210,7 @@ python priority.py
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 * Arrival Time Support
 * Turnaround Time Calculation
@@ -224,7 +224,7 @@ python priority.py
 ---
 
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 ### Md Tausif Uddin
 
