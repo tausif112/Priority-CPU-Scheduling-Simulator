@@ -16,7 +16,7 @@ A Python implementation of the **Priority CPU Scheduling Algorithm** with Gantt 
 
 ---
 
-# 📌 Project Overview
+## 📌 Overview
 
 This project demonstrates the implementation of the **Priority Scheduling Algorithm**, a widely used CPU scheduling technique in Operating Systems.
 
@@ -34,7 +34,7 @@ The project was developed and tested using **Google Colaboratory (Google Colab)*
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 * Priority Scheduling Simulation
 * Process Sorting Based on Priority
@@ -46,7 +46,7 @@ The project was developed and tested using **Google Colaboratory (Google Colab)*
 
 ---
 
-# 🧠 About Priority Scheduling
+## 🧠 About Priority Scheduling
 
 Priority Scheduling is a CPU Scheduling Algorithm where every process is assigned a priority value.
 
@@ -76,20 +76,15 @@ The CPU selects the process with the highest priority first.
    * Priority
 
 2. Sort the processes according to priority.
-
 3. Execute processes from highest priority to lowest priority.
-
 4. Calculate waiting time for each process.
-
 5. Update the execution timeline.
-
 6. Generate the Gantt Chart.
-
 7. Calculate Average Waiting Time.
 
 ---
 
-# 🧮 Input Example
+## 🧮 Input Example
 
 ```python
 processes = [
@@ -102,7 +97,7 @@ processes = [
 
 ---
 
-# 📊 Output Example
+## 📊 Output Example
 
 ```text
 Gantt Chart: 0 P2 3 P1 24 P4 26 P3 32
@@ -112,7 +107,7 @@ Average Waiting Time: 13.25
 
 ---
 
-# 📈 Gantt Chart Representation
+## 📈 Gantt Chart Representation
 
 ```text
 0      3                 24      26       32
@@ -127,7 +122,7 @@ P2 → P1 → P4 → P3
 
 ---
 
-# 📸 Google Colab Development Environment
+## 📸 Google Colab Development Environment
 
 The project was implemented and tested using Google Colaboratory.
 
@@ -143,7 +138,7 @@ The project was implemented and tested using Google Colaboratory.
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 Priority-CPU-Scheduling-Simulator/
